@@ -1,2 +1,1 @@
-deploy do projeto:
-https://portfolio-leandro-tau.vercel.app/
+deploy do projeto: https://portfolio-leandro-tau.vercel.app/
