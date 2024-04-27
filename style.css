@@ -129,9 +129,14 @@ body {
 
     .apresentacao {
         flex-direction: column-reverse;
+        padding: 5%;
     }
 
     .apresentacao__conteudo {
-        width: 100%;
+        width: auto;
+    }
+
+    .apresentacao__links__navegacao {
+        width: 70%;
     }
 }
